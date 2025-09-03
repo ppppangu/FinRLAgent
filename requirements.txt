@@ -1,0 +1,7 @@
+ray[rllib]
+torch
+asyncpg
+pandas
+numpy
+gymnasium
+python-dotenv
